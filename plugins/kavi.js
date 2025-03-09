@@ -3,8 +3,8 @@ Please Give Credit 🙂❤️
 ⚖️𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 - : ©𝐌𝐑 𝐌𝐀𝐍𝐔𝐋 𝐎𝐅𝐂 💚
 */
 
-const { cmd } = require("../lib/command");
-const { fetchJson } = require("../lib/functions");
+const { cmd, commands } = require('../lib/command');
+const { fetchJson } = require('../lib/functions');
 const domain = `https://mr-manul-ofc-apis.vercel.app/`;
 const api_key = `Manul-Ofc-Sl-Sub-Key-9`;
 
