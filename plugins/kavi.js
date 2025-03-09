@@ -13,8 +13,8 @@ const api_key = `Manul-Ofc-Sl-Sub-Key-9`;
 //============================================
 
 cmd({
-    pattern: "movie",
-    alias: ["slsub", "mv"],
+    pattern: "m",
+    alias: ["slsub", "mm"],
     react: '⛓️‍💥',
     category: "download",
     desc: "Search movies on sinhalasub and get download links",
